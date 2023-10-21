@@ -12,3 +12,37 @@ Se requiere:
 2. Crear CRUD sobre la información referenciada anteriormente.(20 puntos)
 3. Desarrollar un reporte sobre medicamentos y clientes.(15 puntos)
 4. Aprendizaje independiente. Puede ser una funcionalidad adicional (10 puntos).
+
+# Contenido del repositorio
+
+Este repositorio contiene los siguientes directorios y su contenido:
+
+## AppAngular
+
+En este directorio encontrarás una aplicación web desarrollada con Angular. La estructura de este directorio se divide en dos partes:
+
+### Server
+
+Este directorio contiene una API desarrollada en Node.js que sirve como backend para la aplicación Angular.
+
+### Cliente
+
+En este directorio, encontrarás la parte del cliente de la aplicación Angular. Aquí se encuentra el código y los archivos relacionados con la interfaz de usuario.
+
+## AppJavaWeb/appPetsSA
+
+Este directorio alberga el desarrollo de una aplicación Java llamada "appPetsSA". Aquí se encuentra el código fuente de la aplicación y todos los archivos relacionados con el proyecto Java.
+
+## Diagramas
+
+En este directorio se encuentran los diagramas relacionados con el proyecto, incluyendo:
+
+- Modelo MR (Modelo relacional)
+- Diagrama de Clases
+- Archivo de DataModeler (MER y MR)
+
+## database
+
+En el directorio "database" encontrarás el código SQL necesario para la base de datos utilizada en la aplicación. Este directorio contiene todos los scripts SQL relevantes.
+
+Si deseas obtener más detalles sobre cualquiera de los directorios o componentes individuales, por favor explora los subdirectorios correspondientes.
