@@ -1,0 +1,59 @@
+h1 {
+    color: var(--type-color-lightblue);
+    font-size: 2em;
+    font-weight: bold;
+    margin: 0 0 0.5em 0;
+    text-transform: uppercase;
+    padding-block: 0.5em;
+    background-color: var(--type-color-white);
+    border-radius: 0.5em;
+    box-shadow: 0 0 3rem -1rem var(--type-color-lightblue);
+}
+
+p.title {
+    color: var(--type-color-lightblue);
+    font-size: 1.2em;
+    font-weight: bold;
+    margin: 0 0 0.5em 0;
+    text-transform: uppercase;
+}
+
+span.text {
+    font-size: .9em !important;
+    margin: 0 0 0.5em 0;
+}
+
+.table thead th {
+    background-color: var(--type-color-lightblue);
+}
+
+.contenedor {
+    padding-bottom: 1em;
+}
+
+.td-acciones {
+    gap: 0.2em;
+}
+
+.nueva-mascota {
+    gap: 0.5em;
+    margin: 0 0 1em 0;
+}
+
+div.text-center {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    gap: 0.5em;
+}
+
+.custom-input {
+    background-color: var(--type-color-lightbrown);
+    padding: 0;
+}
+
+.custom-input i {
+    padding: 5px;
+    margin: 0;
+}
